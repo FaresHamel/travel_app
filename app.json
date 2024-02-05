@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "travely.app",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Project_to_learn_better_Expo_Routing",
+    "slug": "Project_to_learn_better_Expo_Routing",
+    "splash": {
+      "backgroundColor": "#F3F4F8",
+      "resizeMode": "contain",
+      "image": "assets/images/splash.png"
+    },
+    "android": {
+      "package": "com.fareshamel.travely"
+    },
+    "ios": {
+      "bundleIdentifier": "com.fareshamel.travely"
+    }
+  }
+}
